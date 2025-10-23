@@ -1,0 +1,19 @@
+body{
+background-color: black;
+color: aqua;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin: 0px;
+}
+h1{
+color: violet;
+font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+header{
+    border-bottom: black;
+    margin: 2px;
+    padding: 10px;
+    color: aliceblue;
+}
