@@ -17,3 +17,15 @@ header{
     padding: 10px;
     color: aliceblue;
 }
+chamada{
+    background: (s);
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 8%;
+}
+img{
+    height: 200px;
+}
